@@ -43,6 +43,6 @@ Git 과 Github 을 능숙하게 다루기 위해선 자주 사용해보는 것�
 - 스스로 문제를 해결하는 법
 - 도움을 요청하는 법
 
-## 9. 함께하신 분들
+## 9. Thanks to..
 - [@jhoon2816](https://github.com/jhoon2816)
 - [@E-nuri](https://github.com/E-nuri)
