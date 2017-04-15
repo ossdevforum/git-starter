@@ -47,7 +47,7 @@ Git 과 Github 을 능숙하게 다루기 위해선 자주 사용해보는 것�
 - 도움을 요청하는 법
 
 ## 9. Thanks to..
-- [@LethalSun](https://github.com/LethalSun/)
+
 - [@github](https://github.com)
 - [@jhoon2816](https://github.com/jhoon2816)
 - [@E-nuri](https://github.com/E-nuri)
