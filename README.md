@@ -52,6 +52,7 @@ Git 과 Github 을 능숙하게 다루기 위해선 자주 사용해보는 것�
 - [@jhoon2816](https://github.com/jhoon2816)
 - [@E-nuri](https://github.com/E-nuri)
 - [@Hongbre](https://github.com/hongbre)
+- [@NamJung](https://hithub.com/NamJungKim)
 - [@IRSM](https://github.com/IRSM)
 - [@keyakoto](https://github.com/keyakoto)
 - [@iru4062](https://github.com/iru4062)
