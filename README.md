@@ -65,3 +65,4 @@ Git 과 Github 을 능숙하게 다루기 위해선 자주 사용해보는 것�
 - [@devming](https://github.com/devming)
 - [@megmania](https://github.com/megmania)
 - [@NyahaYa](https://github.com/NyaHaYa)
+- [@megmania](https://github.com/megmania)
