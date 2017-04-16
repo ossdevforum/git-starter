@@ -54,7 +54,7 @@ Git 과 Github 을 능숙하게 다루기 위해선 자주 사용해보는 것�
 - [@Hongbre](https://github.com/hongbre)
 - [@lalwrj](https://github.com/lalwr)
 - [@Gengaozo](https://github.com/Gengaozo)
-- [@Yuchul](https://github.com/shinyc1006/git-project.git)
+- [@Yuchul](https://github.com/shinyc1006)
 - [@LethalSun](https://github.com/LethalSun/)
 - [@NamJung](https://github.com/NamJungKim)
 - [@IRSM](https://github.com/IRSM)
