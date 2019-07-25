@@ -8,7 +8,7 @@
   <a href="https://github.com/ossdevforum/git-starter/graphs/contributors" alt="Contribution Count">
     <img src="https://img.shields.io/github/contributors/ossdevforum/git-starter.svg" />
   </a>
-  <a href="https://github.com/ossdevforum/git-starter/network" alt="Facebook Link">
+  <a href="https://github.com/ossdevforum/git-starter/network/members" alt="Facebook Link">
     <img src="https://img.shields.io/github/forks/ossdevforum/git-starter" />
   </a>
 </p>
