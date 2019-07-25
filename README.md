@@ -70,3 +70,4 @@ Git 과 Github 을 능숙하게 다루기 위해선 자주 사용해보는 것�
 - [@megmania](https://github.com/megmania)
 - [@jminseon](https://github.com/jminseon)
 - [@elephantLikesApple](https://github.com/elephantLikesApple)
+- [@morned270](https://github.com/morned270)
