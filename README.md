@@ -1,10 +1,12 @@
+<p align="center"><img src="./assets/img/banner.png" width="600px" /></p>
+
 # 처음 시작하는 Git + Github 활용하기
 오픈소스와 현업에서 많이 쓰이는 Git 에 대해 알아보고, 실습을 통해 익히는 과정을 다룹니다. 기초 사용법을 익히고 나서는 Github Pages 를 이용하여 개발 관련 블로그를 만들고 운영하는 법을 소개합니다.
 
 강의의 주요 대상은 Git 을 처음 접하는 개발자 혹은 Git 에 관심이 있는 학생입니다. 프로그래밍을 잘하지 않으셔도 따라오실 수는 있으나 원활한 실습을 위해 `Hello World` 정도는 해보신 분들을 대상으로 진행합니다.
 
-- 강의 전 환경설정 : [다운로드](https://github.com/ossdevforum/git-starter/raw/master/pdf/git-init.pdf)
-- 강의 슬라이드 : [다운로드](https://github.com/ossdevforum/git-starter/raw/master/pdf/git-starter.pdf)
+- 강의 전 환경설정 : [다운로드](https://github.com/ossdevforum/git-starter/raw/master/assets/pdf/git-init.pdf)
+- 강의 슬라이드 : [다운로드](https://github.com/ossdevforum/git-starter/raw/master/assets/pdf/git-starter.pdf)
 
 ## 1. Git, Github 소개
 오픈소스 진영에서 주로 사용하는 분산 버전관리 도구인 Git 과 Github 에 대해 간단히 소개합니다. Git 이 다른 버전관리 도구에 비해 어떤 점이 좋은지에 대해서도 다룹니다.
