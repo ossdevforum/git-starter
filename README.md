@@ -73,3 +73,4 @@ Git 과 Github 을 능숙하게 다루기 위해선 자주 사용해보는 것�
 - [@morned270](https://github.com/morned270)
 - [@catsaveearth](https://github.com/catsaveearth)
 - [@getsolaris](https://github.com/getsolaris)
+- [@sejin99](https://github.com/sejin99)
