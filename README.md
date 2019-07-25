@@ -76,3 +76,4 @@ Git 과 Github 을 능숙하게 다루기 위해선 자주 사용해보는 것�
 - [@sejin99](https://github.com/sejin99)
 - [@sanghyeon1](https://github.com/sanghyeon1)
 - [@yee7720](https://github.com/yee7720)
+- [@izen1231](https://github.com/izen1231)
