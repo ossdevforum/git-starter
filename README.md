@@ -136,4 +136,6 @@ Git 과 Github 을 능숙하게 다루기 위해선 자주 사용해보는 것�
 
 - [@topasvga](https://github.com/topasvga)
 
+- [@NeonT21](https://github.com/neont21)
+
 - [@MinSeoGi](https://github.com/MinSeoGi)
