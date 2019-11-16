@@ -71,33 +71,67 @@ Git 과 Github 을 능숙하게 다루기 위해선 자주 사용해보는 것�
 ## 9. Acknowledgments
 
 - [@namsupcall](https://github.com/namsupcall)
+
 - [@github](https://github.com)
+
 - [@jhoon2816](https://github.com/jhoon2816)
+
 - [@E-nuri](https://github.com/E-nuri)
+
 - [@Hongbre](https://github.com/hongbre)
+
 - [@lalwrj](https://github.com/lalwr)
+
 - [@Gengaozo](https://github.com/Gengaozo)
+
 - [@Yuchul](https://github.com/shinyc1006)
+
 - [@LethalSun](https://github.com/LethalSun/)
+
 - [@NamJung](https://github.com/NamJungKim)
+
 - [@IRSM](https://github.com/IRSM)
+
 - [@dudgns0507](https://github.com/dudgns0507)
+
 - [@keyakoto](https://github.com/keyakoto)
+
 - [@SHGroup](http://github.com/sunghun7511)
+
 - [@iru4062](https://github.com/iru4062)
+
 - [@dodut](https://github.com/dodut)
+
 - [@hjinny](https://github.com/hjinny)
+
 - [@devming](https://github.com/devming)
+
 - [@megmania](https://github.com/megmania)
+
 - [@NyahaYa](https://github.com/NyaHaYa)
+
 - [@megmania](https://github.com/megmania)
+
 - [@hackloud](https://github.com/hackloud)
+
 - [@jminseon](https://github.com/jminseon)
+
 - [@elephantLikesApple](https://github.com/elephantLikesApple)
+
 - [@morned270](https://github.com/morned270)
+
 - [@catsaveearth](https://github.com/catsaveearth)
+
 - [@getsolaris](https://github.com/getsolaris)
+
 - [@sejin99](https://github.com/sejin99)
+
 - [@sanghyeon1](https://github.com/sanghyeon1)
+
 - [@yee7720](https://github.com/yee7720)
+
 - [@izen1231](https://github.com/izen1231)
+
+- [@MinSeoGi](https://github.com/MinSeoGi)
+
+  
