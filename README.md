@@ -113,3 +113,4 @@ Git 과 Github 을 능숙하게 다루기 위해선 자주 사용해보는 것�
 - [@jyounv](https://github.com/jyounv)
 - [@yasuo3](https://github.com/yasuo3)
 - [@junsirk](https://github.com/junsirk)
+- [@MinSeoGi](https://github.com/MinSeoGi)
