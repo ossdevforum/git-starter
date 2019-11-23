@@ -116,3 +116,4 @@ Git 과 Github 을 능숙하게 다루기 위해선 자주 사용해보는 것�
 - [@MinSeoGi](https://github.com/MinSeoGi)
 - [@hayjuney](https://github.com/hayjuney)
 - [@ju2018119](https://github.com/Cloud0720)
+- [@jnhro1](https://github.com/jnhro1)
